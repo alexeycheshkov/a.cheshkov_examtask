@@ -1,0 +1,29 @@
+2021-08-17 19:17:48 INFO  - Navigate to url - 'http://login:password@localhost:8080/web/'
+2021-08-17 19:17:48 INFO  - Label 'Projects panel' :: Waiting for element to be displayed
+2021-08-17 19:17:48 INFO  - Refreshing the page
+2021-08-17 19:17:49 INFO  - Label 'Version lbl' :: Getting text from element
+2021-08-17 19:17:49 INFO  - Label 'Version lbl' :: Element's text: [Version: 1]
+2021-08-17 19:17:49 INFO  - Button 'Add project btn' :: Clicking
+2021-08-17 19:17:49 INFO  - Waiting for page to load
+2021-08-17 19:17:49 INFO  - Text Field 'Project name input' :: Clicking
+2021-08-17 19:18:47 DEBUG - Loading configuration file: src/main/resources/db_sql_query.properties
+2021-08-17 19:18:47 DEBUG - Got browser profile options from settings file:
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-08-17 19:18:47 DEBUG - Got browser capabilities from settings file:
+{enableVNC=true}
+2021-08-17 19:18:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-08-17 19:18:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-08-17 19:18:49 INFO  - Browser 'CHROME' ready...
+2021-08-17 19:18:49 INFO  - Maximizing browser window
+2021-08-17 19:18:49 DEBUG - Loading configuration file: src/main/resources/config.properties
+2021-08-17 19:18:49 DEBUG - CookieSpec selected: default
+2021-08-17 19:18:49 DEBUG - Auth cache not set in the context
+2021-08-17 19:18:49 DEBUG - Connection request: [route: {}->http://localhost:8080][total available: 0; route allocated: 0 of 20; total allocated: 0 of 200]
+2021-08-17 19:18:49 DEBUG - Connection leased: [id: 0][route: {}->http://localhost:8080][total available: 0; route allocated: 1 of 20; total allocated: 1 of 200]
+2021-08-17 19:18:49 DEBUG - Opening connection {}->http://localhost:8080
+2021-08-17 19:18:49 DEBUG - Connecting to localhost/127.0.0.1:8080
+2021-08-17 19:18:49 DEBUG - Connection established 127.0.0.1:58532<->127.0.0.1:8080
+2021-08-17 19:18:49 DEBUG - http-outgoing-0: set socket timeout to 60000
+2021-08-17 19:18:49 DEBUG - Executing request POST /api/token/get?variant=1 HTTP/1.1
+2021-08-17 19:18:49 DEBUG - Target auth state: UNCHALLENGED
+2021-08-17 19:18:49 DEBUG - Proxy auth state: UNCHALLENGED
